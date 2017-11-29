@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+h2 {
+  color: red;
+}
+p {
+  color: green;
+}
+p {
+  font-style: italic;
+}
+h1 {
+  font-family:cursive;}
+  h2 {
+    text-decoration: underline;
+  }
+  h1 {
+    text-align: center;
+  }
+img {
+  image-orientation: centre
+
+}
