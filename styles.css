@@ -1,5 +1,5 @@
 h1 {
-    color: blue;
+    color: purple;
 }
 h2 {
   color: red;
@@ -18,7 +18,3 @@ h1 {
   h1 {
     text-align: center;
   }
-img {
-  image-orientation: centre
-
-}
